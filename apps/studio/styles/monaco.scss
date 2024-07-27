@@ -31,6 +31,11 @@ span.th.tr.td.textarea {
   cursor: inherit;
 }
 
+
+.find-widget {
+  margin-right: 30px;
+}
+
 .grid-monaco-editor,
 .monaco-editor .suggest-widget {
   .main {
@@ -41,6 +46,7 @@ span.th.tr.td.textarea {
     padding: inherit;
     overflow: inherit;
   }
+
 
   .monaco-list-row.focused .main {
     background: var(--vscode-quickInput-background);
